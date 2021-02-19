@@ -1,0 +1,4 @@
+STRINGTABLE listitem
+{
+	listitem "Scheme";
+}
